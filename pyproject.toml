@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "quotes-website"
+name = "quoteswebsite"
 version = "0.1.0"
 description = "A website to view quotes from the Cyber Discovery Discord Server."
 authors = ["Cyber Discovery Community <triggerhappymods@cyberdiscoverycommunity.uk>"]
