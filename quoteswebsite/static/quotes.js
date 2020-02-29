@@ -5,7 +5,7 @@
     $("#permalink_input").val(window.location.hostname + "/quote/" + quote.id);
 
     $("#permalink_button").click(function () {
-        input = $("#permalink_input")
+        input = $("#permalink_input");
         input.select();
         document.execCommand("copy");
     });
